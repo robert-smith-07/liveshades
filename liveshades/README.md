@@ -7,6 +7,9 @@ This pin location can be changed in button.py
 
 TODO:
 Push the auto start daemon for the script
+
 Pi Zero compatability
+
 Audio muxing from USB microphone
+
 Auto share over Wifi
