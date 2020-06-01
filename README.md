@@ -4,7 +4,7 @@ This project uses a Raspberry Pi with a camera module to become an always on, sm
 
 Meant to be used attached to glasses, but can fit in a pocket as well.
 
-Tested with a 1500Mah battery and it last around six hours.
+Tested with a 1500Mah battery and it lasted around six hours.
 
 At the press of a button last few minutes of video are recorded. The video is constantly recording but cycled out to save space.
 
