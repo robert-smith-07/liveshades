@@ -20,5 +20,7 @@ Pi Zero compatability
 
 Audio muxing from USB microphone 
 
-Auto share over Wifi
+Auto share over Wifi, even by cell phone tethering
+
+Starting camera with voice, accelerometer to be more covert
 
