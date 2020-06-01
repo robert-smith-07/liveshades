@@ -16,6 +16,8 @@ Because this uses the picamera library most Pi cameras should work.
 
 TODO: 
 
+Use itertools instead of noob for loop
+
 Push the auto start daemon for the script
 
 Pi Zero compatability 
