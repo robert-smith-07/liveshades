@@ -10,6 +10,8 @@ The button is soldered to Pins 12 (GPIO 18) and 6 on a Raspberry Pi 3.
 
 This pin location can be changed in button.py
 
+Because this uses the picamera library most Pi cameras should work.
+
 TODO: 
 
 Push the auto start daemon for the script
