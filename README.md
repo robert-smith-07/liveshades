@@ -11,6 +11,7 @@ The button is soldered to Pins 12 and 6 on a Raspberry Pi 3.
 This pin location can be changed in button.py
 
 TODO: 
+
 Push the auto start daemon for the script
 
 Pi Zero compatability 
